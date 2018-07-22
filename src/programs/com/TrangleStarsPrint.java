@@ -13,7 +13,7 @@ public class TrangleStarsPrint {
 		
 		  Scanner sc = new Scanner(System.in);
 	        int size = 0;
-	        //Character c;
+	        Character c;
 	        System.out.println("Enter height of the triangle : ");
 	        size = sc.nextInt();
 	        int i, j, k;
